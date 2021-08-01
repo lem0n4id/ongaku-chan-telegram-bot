@@ -1,0 +1,4 @@
+ffmpeg==1.4
+youtube-dl==2021.6.6
+youtube-search-python==1.4.6
+python-telegram-bot==13.7
