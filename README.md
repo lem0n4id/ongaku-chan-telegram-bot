@@ -1,4 +1,4 @@
-# ongaku-chan-telegram-bot
+# Youtube Song Downloader Telegram Bot
 Project for selfiehacks hackathon [Devpost](https://devpost.com/software/youtube-song-downloader-telegram-bot)
 
 
